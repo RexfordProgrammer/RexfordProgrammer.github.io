@@ -1,0 +1,787 @@
+[
+    {
+        "path": "404.html",
+        "type": "file",
+        "md5": "903443927c8e9ca621b91e2f55e69a02"
+    },
+    {
+        "path": "assets",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/css",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/css/editor.css",
+        "type": "file",
+        "md5": "4202808df745f2ac7ab250606fa0d272"
+    },
+    {
+        "path": "/assets/css/main.css",
+        "type": "file",
+        "md5": "70e5b41aef59b817111a41a581647b82"
+    },
+    {
+        "path": "/assets/css/photoswipe.css",
+        "type": "file",
+        "md5": "366561c4c503c68e3af3389ac4d7fb8e"
+    },
+    {
+        "path": "/assets/css/style.css",
+        "type": "file",
+        "md5": "778c28395970a0b61b4af9ba8e53f1b4"
+    },
+    {
+        "path": "assets/dynamic",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/dynamic/fonts",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/dynamic/fonts/robotoslab",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/dynamic/fonts/robotoslab/robotoslab.woff2",
+        "type": "file",
+        "md5": "bb6d76ffefc4cc4bf748676e5920a798"
+    },
+    {
+        "path": "assets/dynamic/fonts/rokkitt",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/dynamic/fonts/rokkitt/rokkitt-italic.woff2",
+        "type": "file",
+        "md5": "65080a353056f3e2cfc1cfa0ca9cd6d6"
+    },
+    {
+        "path": "/assets/dynamic/fonts/rokkitt/rokkitt.woff2",
+        "type": "file",
+        "md5": "96d53709ddfc3e999f05dcc5d3e56b13"
+    },
+    {
+        "path": "assets/js",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/js/photoswipe-ui-default.min.js",
+        "type": "file",
+        "md5": "9952f77ca2b8fbc9449a268008ea8dee"
+    },
+    {
+        "path": "/assets/js/photoswipe.min.js",
+        "type": "file",
+        "md5": "b586a3bc288c989ecce7b81b48e35855"
+    },
+    {
+        "path": "/assets/js/scripts.js",
+        "type": "file",
+        "md5": "e9e5c3efbaa696d1490988cf5b30e23b"
+    },
+    {
+        "path": "/assets/js/scripts.min.js",
+        "type": "file",
+        "md5": "700105c316933a8202041b6415abb233"
+    },
+    {
+        "path": "/assets/js/svg-fix.js",
+        "type": "file",
+        "md5": "9b7d020c55e2b4f77ab40c97f88f9ff4"
+    },
+    {
+        "path": "/assets/js/svg-map.js",
+        "type": "file",
+        "md5": "ff4392540fcf4c3d3f5e03806e112816"
+    },
+    {
+        "path": "assets/svg",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/svg/gallery-icons-dark.svg",
+        "type": "file",
+        "md5": "a4f588d02a5173243813af82b5d5546e"
+    },
+    {
+        "path": "/assets/svg/gallery-icons-light.svg",
+        "type": "file",
+        "md5": "38f529a5cfc8469010687b31596e8208"
+    },
+    {
+        "path": "/assets/svg/svg-map.svg",
+        "type": "file",
+        "md5": "cf04dfd5c3cc64e0be44692fe7d976a6"
+    },
+    {
+        "path": "authors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "authors/rexford-dorchester",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/rexford-dorchester/index.html",
+        "type": "file",
+        "md5": "eed8c9f8601f8922b19da54e955d1daf"
+    },
+    {
+        "path": "index.html",
+        "type": "file",
+        "md5": "5995742688003d410f27ec25c10e53b2"
+    },
+    {
+        "path": "media",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/1",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/1/e00c47431702e4b6e423d5742a0bec1a.gif",
+        "type": "file",
+        "md5": "b4adfd2dba9ad2338d4ae4fbff51fb48"
+    },
+    {
+        "path": "media/posts/2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/2/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/2/responsive/rsw_600h_300cg_true-2-2xl.jpg",
+        "type": "file",
+        "md5": "b8080cecafa06a60c7229a8f843e8bb5"
+    },
+    {
+        "path": "/media/posts/2/responsive/rsw_600h_300cg_true-2-lg.jpg",
+        "type": "file",
+        "md5": "b8080cecafa06a60c7229a8f843e8bb5"
+    },
+    {
+        "path": "/media/posts/2/responsive/rsw_600h_300cg_true-2-md.jpg",
+        "type": "file",
+        "md5": "b8080cecafa06a60c7229a8f843e8bb5"
+    },
+    {
+        "path": "/media/posts/2/responsive/rsw_600h_300cg_true-2-sm.jpg",
+        "type": "file",
+        "md5": "b8080cecafa06a60c7229a8f843e8bb5"
+    },
+    {
+        "path": "/media/posts/2/responsive/rsw_600h_300cg_true-2-xl.jpg",
+        "type": "file",
+        "md5": "b8080cecafa06a60c7229a8f843e8bb5"
+    },
+    {
+        "path": "/media/posts/2/responsive/rsw_600h_300cg_true-2-xs.jpg",
+        "type": "file",
+        "md5": "b8080cecafa06a60c7229a8f843e8bb5"
+    },
+    {
+        "path": "/media/posts/2/responsive/rsw_600h_300cg_true-2xl.jpg",
+        "type": "file",
+        "md5": "b74332235db214ad21dc5c39d1adca81"
+    },
+    {
+        "path": "/media/posts/2/responsive/rsw_600h_300cg_true-3-2xl.jpg",
+        "type": "file",
+        "md5": "a94cbd5c9ec089fcecc04dc9b48448e8"
+    },
+    {
+        "path": "/media/posts/2/responsive/rsw_600h_300cg_true-3-lg.jpg",
+        "type": "file",
+        "md5": "a94cbd5c9ec089fcecc04dc9b48448e8"
+    },
+    {
+        "path": "/media/posts/2/responsive/rsw_600h_300cg_true-3-md.jpg",
+        "type": "file",
+        "md5": "a94cbd5c9ec089fcecc04dc9b48448e8"
+    },
+    {
+        "path": "/media/posts/2/responsive/rsw_600h_300cg_true-3-sm.jpg",
+        "type": "file",
+        "md5": "a94cbd5c9ec089fcecc04dc9b48448e8"
+    },
+    {
+        "path": "/media/posts/2/responsive/rsw_600h_300cg_true-3-xl.jpg",
+        "type": "file",
+        "md5": "a94cbd5c9ec089fcecc04dc9b48448e8"
+    },
+    {
+        "path": "/media/posts/2/responsive/rsw_600h_300cg_true-3-xs.jpg",
+        "type": "file",
+        "md5": "a94cbd5c9ec089fcecc04dc9b48448e8"
+    },
+    {
+        "path": "/media/posts/2/responsive/rsw_600h_300cg_true-4-2xl.jpg",
+        "type": "file",
+        "md5": "39a6d1c1d23ca4ca49f40832647e5056"
+    },
+    {
+        "path": "/media/posts/2/responsive/rsw_600h_300cg_true-4-lg.jpg",
+        "type": "file",
+        "md5": "39a6d1c1d23ca4ca49f40832647e5056"
+    },
+    {
+        "path": "/media/posts/2/responsive/rsw_600h_300cg_true-4-md.jpg",
+        "type": "file",
+        "md5": "39a6d1c1d23ca4ca49f40832647e5056"
+    },
+    {
+        "path": "/media/posts/2/responsive/rsw_600h_300cg_true-4-sm.jpg",
+        "type": "file",
+        "md5": "39a6d1c1d23ca4ca49f40832647e5056"
+    },
+    {
+        "path": "/media/posts/2/responsive/rsw_600h_300cg_true-4-xl.jpg",
+        "type": "file",
+        "md5": "39a6d1c1d23ca4ca49f40832647e5056"
+    },
+    {
+        "path": "/media/posts/2/responsive/rsw_600h_300cg_true-4-xs.jpg",
+        "type": "file",
+        "md5": "39a6d1c1d23ca4ca49f40832647e5056"
+    },
+    {
+        "path": "/media/posts/2/responsive/rsw_600h_300cg_true-5-2xl.jpg",
+        "type": "file",
+        "md5": "359df91aa04507205ecb2f45cb82849d"
+    },
+    {
+        "path": "/media/posts/2/responsive/rsw_600h_300cg_true-5-lg.jpg",
+        "type": "file",
+        "md5": "359df91aa04507205ecb2f45cb82849d"
+    },
+    {
+        "path": "/media/posts/2/responsive/rsw_600h_300cg_true-5-md.jpg",
+        "type": "file",
+        "md5": "359df91aa04507205ecb2f45cb82849d"
+    },
+    {
+        "path": "/media/posts/2/responsive/rsw_600h_300cg_true-5-sm.jpg",
+        "type": "file",
+        "md5": "359df91aa04507205ecb2f45cb82849d"
+    },
+    {
+        "path": "/media/posts/2/responsive/rsw_600h_300cg_true-5-xl.jpg",
+        "type": "file",
+        "md5": "359df91aa04507205ecb2f45cb82849d"
+    },
+    {
+        "path": "/media/posts/2/responsive/rsw_600h_300cg_true-5-xs.jpg",
+        "type": "file",
+        "md5": "359df91aa04507205ecb2f45cb82849d"
+    },
+    {
+        "path": "/media/posts/2/responsive/rsw_600h_300cg_true-7-2xl.jpg",
+        "type": "file",
+        "md5": "9770f4e149b35a5b26f6fcdfecdcaac1"
+    },
+    {
+        "path": "/media/posts/2/responsive/rsw_600h_300cg_true-7-lg.jpg",
+        "type": "file",
+        "md5": "9770f4e149b35a5b26f6fcdfecdcaac1"
+    },
+    {
+        "path": "/media/posts/2/responsive/rsw_600h_300cg_true-7-md.jpg",
+        "type": "file",
+        "md5": "9770f4e149b35a5b26f6fcdfecdcaac1"
+    },
+    {
+        "path": "/media/posts/2/responsive/rsw_600h_300cg_true-7-sm.jpg",
+        "type": "file",
+        "md5": "9770f4e149b35a5b26f6fcdfecdcaac1"
+    },
+    {
+        "path": "/media/posts/2/responsive/rsw_600h_300cg_true-7-xl.jpg",
+        "type": "file",
+        "md5": "9770f4e149b35a5b26f6fcdfecdcaac1"
+    },
+    {
+        "path": "/media/posts/2/responsive/rsw_600h_300cg_true-7-xs.jpg",
+        "type": "file",
+        "md5": "9770f4e149b35a5b26f6fcdfecdcaac1"
+    },
+    {
+        "path": "/media/posts/2/responsive/rsw_600h_300cg_true-9-2xl.jpg",
+        "type": "file",
+        "md5": "c0b646b430822606f9c87365c1e339af"
+    },
+    {
+        "path": "/media/posts/2/responsive/rsw_600h_300cg_true-9-lg.jpg",
+        "type": "file",
+        "md5": "c0b646b430822606f9c87365c1e339af"
+    },
+    {
+        "path": "/media/posts/2/responsive/rsw_600h_300cg_true-9-md.jpg",
+        "type": "file",
+        "md5": "c0b646b430822606f9c87365c1e339af"
+    },
+    {
+        "path": "/media/posts/2/responsive/rsw_600h_300cg_true-9-sm.jpg",
+        "type": "file",
+        "md5": "c0b646b430822606f9c87365c1e339af"
+    },
+    {
+        "path": "/media/posts/2/responsive/rsw_600h_300cg_true-9-xl.jpg",
+        "type": "file",
+        "md5": "c0b646b430822606f9c87365c1e339af"
+    },
+    {
+        "path": "/media/posts/2/responsive/rsw_600h_300cg_true-9-xs.jpg",
+        "type": "file",
+        "md5": "c0b646b430822606f9c87365c1e339af"
+    },
+    {
+        "path": "/media/posts/2/responsive/rsw_600h_300cg_true-lg.jpg",
+        "type": "file",
+        "md5": "b74332235db214ad21dc5c39d1adca81"
+    },
+    {
+        "path": "/media/posts/2/responsive/rsw_600h_300cg_true-md.jpg",
+        "type": "file",
+        "md5": "b74332235db214ad21dc5c39d1adca81"
+    },
+    {
+        "path": "/media/posts/2/responsive/rsw_600h_300cg_true-sm.jpg",
+        "type": "file",
+        "md5": "b74332235db214ad21dc5c39d1adca81"
+    },
+    {
+        "path": "/media/posts/2/responsive/rsw_600h_300cg_true-xl.jpg",
+        "type": "file",
+        "md5": "b74332235db214ad21dc5c39d1adca81"
+    },
+    {
+        "path": "/media/posts/2/responsive/rsw_600h_300cg_true-xs.jpg",
+        "type": "file",
+        "md5": "b74332235db214ad21dc5c39d1adca81"
+    },
+    {
+        "path": "/media/posts/2/responsive/Screenshot-2023-11-23-160822-2xl.png",
+        "type": "file",
+        "md5": "f439b6b82e89835a1055796699fea578"
+    },
+    {
+        "path": "/media/posts/2/responsive/Screenshot-2023-11-23-160822-lg.png",
+        "type": "file",
+        "md5": "489659d7e383d6d429226ede644141c6"
+    },
+    {
+        "path": "/media/posts/2/responsive/Screenshot-2023-11-23-160822-md.png",
+        "type": "file",
+        "md5": "f1afbe3318f0237d85ad84bc20cc34b7"
+    },
+    {
+        "path": "/media/posts/2/responsive/Screenshot-2023-11-23-160822-sm.png",
+        "type": "file",
+        "md5": "2e4f5007ac02904d96a1687ae3d7550a"
+    },
+    {
+        "path": "/media/posts/2/responsive/Screenshot-2023-11-23-160822-xl.png",
+        "type": "file",
+        "md5": "7218fb6fb07ea9622effcd533c4d04ca"
+    },
+    {
+        "path": "/media/posts/2/responsive/Screenshot-2023-11-23-160822-xs.png",
+        "type": "file",
+        "md5": "92be0c198e650dc0623100b4ea704ed9"
+    },
+    {
+        "path": "/media/posts/2/responsive/sugarcanemadness-2-2xl.png",
+        "type": "file",
+        "md5": "6145035d160b2c1ebc2d9132c4b8d031"
+    },
+    {
+        "path": "/media/posts/2/responsive/sugarcanemadness-2-lg.png",
+        "type": "file",
+        "md5": "5582bc416911c9e4f9f5b2b1e4495f7b"
+    },
+    {
+        "path": "/media/posts/2/responsive/sugarcanemadness-2-md.png",
+        "type": "file",
+        "md5": "e99c697317357d8fdbc158d36f0ca35a"
+    },
+    {
+        "path": "/media/posts/2/responsive/sugarcanemadness-2-sm.png",
+        "type": "file",
+        "md5": "6cdd590ce54f1252e780d52a2ad62469"
+    },
+    {
+        "path": "/media/posts/2/responsive/sugarcanemadness-2-xl.png",
+        "type": "file",
+        "md5": "c38a89cddc7a4326fca0efc5ff8ae3df"
+    },
+    {
+        "path": "/media/posts/2/responsive/sugarcanemadness-2-xs.png",
+        "type": "file",
+        "md5": "142b45c4d24887148a997867566fd6a9"
+    },
+    {
+        "path": "/media/posts/2/rsw_600h_300cg_true-2.jpg",
+        "type": "file",
+        "md5": "f6d792cf2d6cd4c27259b5a15c1f13f8"
+    },
+    {
+        "path": "/media/posts/2/rsw_600h_300cg_true-3.jpg",
+        "type": "file",
+        "md5": "bc272e90c79da5a8dc13abe33def946a"
+    },
+    {
+        "path": "/media/posts/2/rsw_600h_300cg_true-4.jpg",
+        "type": "file",
+        "md5": "0d88d354cf814e68785496f422cd4bff"
+    },
+    {
+        "path": "/media/posts/2/rsw_600h_300cg_true-5.jpg",
+        "type": "file",
+        "md5": "c95003afd4095fcf7e003a848e5327ff"
+    },
+    {
+        "path": "/media/posts/2/rsw_600h_300cg_true-7.jpg",
+        "type": "file",
+        "md5": "5c688d07028f2356e000b789ca375f47"
+    },
+    {
+        "path": "/media/posts/2/rsw_600h_300cg_true-9.jpg",
+        "type": "file",
+        "md5": "35c3b2d68cae1232d9a19cffc2259768"
+    },
+    {
+        "path": "/media/posts/2/rsw_600h_300cg_true.jpg",
+        "type": "file",
+        "md5": "a2253b47b47178400588a3a856e7103f"
+    },
+    {
+        "path": "/media/posts/2/Screenshot-2023-11-23-160822.png",
+        "type": "file",
+        "md5": "063d5f8d094d3df82dba9f81100c36d5"
+    },
+    {
+        "path": "/media/posts/2/sugarcanemadness-2.png",
+        "type": "file",
+        "md5": "4ce3a355c42f14334c6f1c19377aa16d"
+    },
+    {
+        "path": "media/posts/3",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/3/2023-11-23-14_44_48-SOLIDWORKS-Premium-2020-SP0.0-Tapered-Bit-Holder.SLDPRT.png",
+        "type": "file",
+        "md5": "6c359bdafc3564bee47ab06cff3174dd"
+    },
+    {
+        "path": "/media/posts/3/2023-11-23-14_45_53-SOLIDWORKS-Premium-2020-SP0.0-Fan-Shroud.SLDPRT.png",
+        "type": "file",
+        "md5": "94e8f10b6a6c846993cd57f0286c2a27"
+    },
+    {
+        "path": "/media/posts/3/2023-11-23-14_50_58-SOLIDWORKS-Premium-2020-SP0.0-Base-for-rails-MOST-RECENT.SLDPRT.png",
+        "type": "file",
+        "md5": "db76153f243c3818cd5431b33960f828"
+    },
+    {
+        "path": "/media/posts/3/2023-11-23-14_55_19-SOLIDWORKS-Premium-2020-SP0.0-Hinged-Box-SOLIDWORKS-assembly-Latest.SLDASM-_.png",
+        "type": "file",
+        "md5": "6c29018d73d6e7f2c1b847ef5a87cbd9"
+    },
+    {
+        "path": "media/posts/3/gallery",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/3/gallery/2023-11-23-14_43_48-SOLIDWORKS-Premium-2020-SP0.0-sprayer.SLDPRT-thumbnail.png",
+        "type": "file",
+        "md5": "2a6ba2d573e56a43e177b49ae4759fd9"
+    },
+    {
+        "path": "/media/posts/3/gallery/2023-11-23-14_43_48-SOLIDWORKS-Premium-2020-SP0.0-sprayer.SLDPRT.png",
+        "type": "file",
+        "md5": "3e15960742721a45fe966efc7f195d5a"
+    },
+    {
+        "path": "/media/posts/3/gallery/2023-11-23-14_44_02-SOLIDWORKS-Premium-2020-SP0.0-sprayer.SLDPRT-thumbnail.png",
+        "type": "file",
+        "md5": "4cde1df1db4c99909e06b0f945dac9ee"
+    },
+    {
+        "path": "/media/posts/3/gallery/2023-11-23-14_44_02-SOLIDWORKS-Premium-2020-SP0.0-sprayer.SLDPRT.png",
+        "type": "file",
+        "md5": "570275681f0554767aa2a77b206eb951"
+    },
+    {
+        "path": "/media/posts/3/gallery/2023-11-23-14_48_48-SOLIDWORKS-Premium-2020-SP0.0-GPS-Mount-Holder.SLDPRT-_-2-thumbnail.png",
+        "type": "file",
+        "md5": "cfd4ef8e999f29d911ad35c36ffa8c2e"
+    },
+    {
+        "path": "/media/posts/3/gallery/2023-11-23-14_48_48-SOLIDWORKS-Premium-2020-SP0.0-GPS-Mount-Holder.SLDPRT-_-2.png",
+        "type": "file",
+        "md5": "efb22e23fa93dac7ed407c3b698cffea"
+    },
+    {
+        "path": "/media/posts/3/gallery/2023-11-23-14_49_05-SOLIDWORKS-Premium-2020-SP0.0-Ball-Mount-Recepticle.SLDPRT-2-thumbnail.png",
+        "type": "file",
+        "md5": "b035f31ac543505724e3305fcc475af9"
+    },
+    {
+        "path": "/media/posts/3/gallery/2023-11-23-14_49_05-SOLIDWORKS-Premium-2020-SP0.0-Ball-Mount-Recepticle.SLDPRT-2.png",
+        "type": "file",
+        "md5": "88b3e9fc37f94c64e92951a2de49067d"
+    },
+    {
+        "path": "/media/posts/3/gallery/2023-11-23-14_49_51-SOLIDWORKS-Premium-2020-SP0.0-Cell-Phone-Holder-17mm-Ball-NUT.SLDPRT-_-2-thumbnail.png",
+        "type": "file",
+        "md5": "27ec8cafa20850ec3267af4f45ba0fbf"
+    },
+    {
+        "path": "/media/posts/3/gallery/2023-11-23-14_49_51-SOLIDWORKS-Premium-2020-SP0.0-Cell-Phone-Holder-17mm-Ball-NUT.SLDPRT-_-2.png",
+        "type": "file",
+        "md5": "5f7644a35457607c642df40f01e2f6b4"
+    },
+    {
+        "path": "/media/posts/3/gallery/2023-11-23-14_50_58-SOLIDWORKS-Premium-2020-SP0.0-Base-for-rails-MOST-RECENT.SLDPRT-thumbnail.png",
+        "type": "file",
+        "md5": "e0d780ebac7eb273a119a1fb9f4862c0"
+    },
+    {
+        "path": "/media/posts/3/gallery/2023-11-23-14_50_58-SOLIDWORKS-Premium-2020-SP0.0-Base-for-rails-MOST-RECENT.SLDPRT.png",
+        "type": "file",
+        "md5": "db76153f243c3818cd5431b33960f828"
+    },
+    {
+        "path": "/media/posts/3/gallery/2023-11-23-14_51_17-SOLIDWORKS-Premium-2020-SP0.0-Base-for-rails-MOST-RECENT.SLDPRT-thumbnail.png",
+        "type": "file",
+        "md5": "89742795c61375cfb561de9d73708e70"
+    },
+    {
+        "path": "/media/posts/3/gallery/2023-11-23-14_51_17-SOLIDWORKS-Premium-2020-SP0.0-Base-for-rails-MOST-RECENT.SLDPRT.png",
+        "type": "file",
+        "md5": "e6465bc47527433fc28584514afd30ae"
+    },
+    {
+        "path": "/media/posts/3/gallery/2023-11-23-14_55_53-SOLIDWORKS-Premium-2020-SP0.0-Pyrex.SLDPRT-_-thumbnail.png",
+        "type": "file",
+        "md5": "26f29b1cbe2d73f23c0ba3e22d643fe3"
+    },
+    {
+        "path": "/media/posts/3/gallery/2023-11-23-14_55_53-SOLIDWORKS-Premium-2020-SP0.0-Pyrex.SLDPRT-_.png",
+        "type": "file",
+        "md5": "b08f03ccd2be9396d3da576b80da99d2"
+    },
+    {
+        "path": "/media/posts/3/gallery/2023-11-23-14_56_49-SOLIDWORKS-Premium-2020-SP0.0-FilterBox.SLDPRT-thumbnail.png",
+        "type": "file",
+        "md5": "17871049fdc5be8d442620358b7bf629"
+    },
+    {
+        "path": "/media/posts/3/gallery/2023-11-23-14_56_49-SOLIDWORKS-Premium-2020-SP0.0-FilterBox.SLDPRT.png",
+        "type": "file",
+        "md5": "f6c05c913529dcd4c712243c9aea8a9c"
+    },
+    {
+        "path": "/media/posts/3/gallery/2023-11-23-14_56_56-SOLIDWORKS-Premium-2020-SP0.0-FilterBox-Lid.SLDPRT-thumbnail.png",
+        "type": "file",
+        "md5": "104cddfc1758134cc66b2a072ca131b9"
+    },
+    {
+        "path": "/media/posts/3/gallery/2023-11-23-14_56_56-SOLIDWORKS-Premium-2020-SP0.0-FilterBox-Lid.SLDPRT.png",
+        "type": "file",
+        "md5": "701d64c5dafe59f2b1b6243748eee4c9"
+    },
+    {
+        "path": "media/posts/3/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/3/responsive/2023-11-23-14_44_48-SOLIDWORKS-Premium-2020-SP0.0-Tapered-Bit-Holder.SLDPRT-2xl.png",
+        "type": "file",
+        "md5": "60d157fe4a349bacc4d536ca1ecca7c2"
+    },
+    {
+        "path": "/media/posts/3/responsive/2023-11-23-14_44_48-SOLIDWORKS-Premium-2020-SP0.0-Tapered-Bit-Holder.SLDPRT-lg.png",
+        "type": "file",
+        "md5": "60d157fe4a349bacc4d536ca1ecca7c2"
+    },
+    {
+        "path": "/media/posts/3/responsive/2023-11-23-14_44_48-SOLIDWORKS-Premium-2020-SP0.0-Tapered-Bit-Holder.SLDPRT-md.png",
+        "type": "file",
+        "md5": "60d157fe4a349bacc4d536ca1ecca7c2"
+    },
+    {
+        "path": "/media/posts/3/responsive/2023-11-23-14_44_48-SOLIDWORKS-Premium-2020-SP0.0-Tapered-Bit-Holder.SLDPRT-sm.png",
+        "type": "file",
+        "md5": "0f53db9dfce813ef3d3040729b833070"
+    },
+    {
+        "path": "/media/posts/3/responsive/2023-11-23-14_44_48-SOLIDWORKS-Premium-2020-SP0.0-Tapered-Bit-Holder.SLDPRT-xl.png",
+        "type": "file",
+        "md5": "60d157fe4a349bacc4d536ca1ecca7c2"
+    },
+    {
+        "path": "/media/posts/3/responsive/2023-11-23-14_44_48-SOLIDWORKS-Premium-2020-SP0.0-Tapered-Bit-Holder.SLDPRT-xs.png",
+        "type": "file",
+        "md5": "59aadbd4c0cdc9e004e1ddcf5b05eca7"
+    },
+    {
+        "path": "/media/posts/3/responsive/2023-11-23-14_45_53-SOLIDWORKS-Premium-2020-SP0.0-Fan-Shroud.SLDPRT-2xl.png",
+        "type": "file",
+        "md5": "972590877ead9cf2b94195eb5b1236d1"
+    },
+    {
+        "path": "/media/posts/3/responsive/2023-11-23-14_45_53-SOLIDWORKS-Premium-2020-SP0.0-Fan-Shroud.SLDPRT-lg.png",
+        "type": "file",
+        "md5": "972590877ead9cf2b94195eb5b1236d1"
+    },
+    {
+        "path": "/media/posts/3/responsive/2023-11-23-14_45_53-SOLIDWORKS-Premium-2020-SP0.0-Fan-Shroud.SLDPRT-md.png",
+        "type": "file",
+        "md5": "972590877ead9cf2b94195eb5b1236d1"
+    },
+    {
+        "path": "/media/posts/3/responsive/2023-11-23-14_45_53-SOLIDWORKS-Premium-2020-SP0.0-Fan-Shroud.SLDPRT-sm.png",
+        "type": "file",
+        "md5": "972590877ead9cf2b94195eb5b1236d1"
+    },
+    {
+        "path": "/media/posts/3/responsive/2023-11-23-14_45_53-SOLIDWORKS-Premium-2020-SP0.0-Fan-Shroud.SLDPRT-xl.png",
+        "type": "file",
+        "md5": "972590877ead9cf2b94195eb5b1236d1"
+    },
+    {
+        "path": "/media/posts/3/responsive/2023-11-23-14_45_53-SOLIDWORKS-Premium-2020-SP0.0-Fan-Shroud.SLDPRT-xs.png",
+        "type": "file",
+        "md5": "972590877ead9cf2b94195eb5b1236d1"
+    },
+    {
+        "path": "/media/posts/3/responsive/2023-11-23-14_50_58-SOLIDWORKS-Premium-2020-SP0.0-Base-for-rails-MOST-RECENT.SLDPRT-2xl.png",
+        "type": "file",
+        "md5": "e0d780ebac7eb273a119a1fb9f4862c0"
+    },
+    {
+        "path": "/media/posts/3/responsive/2023-11-23-14_50_58-SOLIDWORKS-Premium-2020-SP0.0-Base-for-rails-MOST-RECENT.SLDPRT-lg.png",
+        "type": "file",
+        "md5": "e0d780ebac7eb273a119a1fb9f4862c0"
+    },
+    {
+        "path": "/media/posts/3/responsive/2023-11-23-14_50_58-SOLIDWORKS-Premium-2020-SP0.0-Base-for-rails-MOST-RECENT.SLDPRT-md.png",
+        "type": "file",
+        "md5": "e0d780ebac7eb273a119a1fb9f4862c0"
+    },
+    {
+        "path": "/media/posts/3/responsive/2023-11-23-14_50_58-SOLIDWORKS-Premium-2020-SP0.0-Base-for-rails-MOST-RECENT.SLDPRT-sm.png",
+        "type": "file",
+        "md5": "e0d780ebac7eb273a119a1fb9f4862c0"
+    },
+    {
+        "path": "/media/posts/3/responsive/2023-11-23-14_50_58-SOLIDWORKS-Premium-2020-SP0.0-Base-for-rails-MOST-RECENT.SLDPRT-xl.png",
+        "type": "file",
+        "md5": "e0d780ebac7eb273a119a1fb9f4862c0"
+    },
+    {
+        "path": "/media/posts/3/responsive/2023-11-23-14_50_58-SOLIDWORKS-Premium-2020-SP0.0-Base-for-rails-MOST-RECENT.SLDPRT-xs.png",
+        "type": "file",
+        "md5": "e0d780ebac7eb273a119a1fb9f4862c0"
+    },
+    {
+        "path": "/media/posts/3/responsive/2023-11-23-14_55_19-SOLIDWORKS-Premium-2020-SP0.0-Hinged-Box-SOLIDWORKS-assembly-Latest.SLDASM-_-2xl.png",
+        "type": "file",
+        "md5": "7d8d59fa1b1304bc0f41528c472ba559"
+    },
+    {
+        "path": "/media/posts/3/responsive/2023-11-23-14_55_19-SOLIDWORKS-Premium-2020-SP0.0-Hinged-Box-SOLIDWORKS-assembly-Latest.SLDASM-_-lg.png",
+        "type": "file",
+        "md5": "7d8d59fa1b1304bc0f41528c472ba559"
+    },
+    {
+        "path": "/media/posts/3/responsive/2023-11-23-14_55_19-SOLIDWORKS-Premium-2020-SP0.0-Hinged-Box-SOLIDWORKS-assembly-Latest.SLDASM-_-md.png",
+        "type": "file",
+        "md5": "7d8d59fa1b1304bc0f41528c472ba559"
+    },
+    {
+        "path": "/media/posts/3/responsive/2023-11-23-14_55_19-SOLIDWORKS-Premium-2020-SP0.0-Hinged-Box-SOLIDWORKS-assembly-Latest.SLDASM-_-sm.png",
+        "type": "file",
+        "md5": "7d8d59fa1b1304bc0f41528c472ba559"
+    },
+    {
+        "path": "/media/posts/3/responsive/2023-11-23-14_55_19-SOLIDWORKS-Premium-2020-SP0.0-Hinged-Box-SOLIDWORKS-assembly-Latest.SLDASM-_-xl.png",
+        "type": "file",
+        "md5": "7d8d59fa1b1304bc0f41528c472ba559"
+    },
+    {
+        "path": "/media/posts/3/responsive/2023-11-23-14_55_19-SOLIDWORKS-Premium-2020-SP0.0-Hinged-Box-SOLIDWORKS-assembly-Latest.SLDASM-_-xs.png",
+        "type": "file",
+        "md5": "7d8d59fa1b1304bc0f41528c472ba559"
+    },
+    {
+        "path": "rexford-dorchester",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "rexford-dorchester/cad-gallery",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/rexford-dorchester/cad-gallery/index.html",
+        "type": "file",
+        "md5": "187976658c19559d5380b531a11d7a78"
+    },
+    {
+        "path": "rexford-dorchester/gallery-of-code-samples",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/rexford-dorchester/gallery-of-code-samples/index.html",
+        "type": "file",
+        "md5": "529750ac6dd951c0819d3e41a45328b2"
+    },
+    {
+        "path": "robots.txt",
+        "type": "file",
+        "md5": "b6216d61c03e6ce0c9aea6ca7808f7ca"
+    },
+    {
+        "path": "tags",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/index.html",
+        "type": "file",
+        "md5": "c13ff0abb5c6d04e09f272167d54504b"
+    }
+]
